@@ -14,7 +14,7 @@ caminho_pasta = r"D:\estoque"
 # Definindo usuarios para login.
 usuarios_permitidos = {
     "cassio": "ca2001",
-    "giovanni": "krebin"}
+    "giovanni": "krebi"}
 
 usuario_atual = None
 
